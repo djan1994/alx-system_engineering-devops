@@ -1,0 +1,1 @@
+the script to print command practices 
