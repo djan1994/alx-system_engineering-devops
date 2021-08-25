@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "Chicago" | sed 's/c//g'
+echo "chicago" | sed 's/c//g'
